@@ -28,5 +28,5 @@ require_once __DOCUMENTROOT__ . '/errors/default.php';
 // 4. VIEWS OPHALEN
 // De HTML-pagina (view) wordt hier opgehaald.
 // $title is de titel van de html pagina.
-$title = "Challenges Levels";
-require __DOCUMENTROOT__ . '/views/levels/challenges.php';
+$title = "Levels";
+require __DOCUMENTROOT__ . '/views/levels/tabel.php';
