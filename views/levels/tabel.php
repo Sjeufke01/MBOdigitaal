@@ -96,9 +96,14 @@
             <td colspan="8">3: Generieke onderdelen RE</td>
         </tr>
         <tr>
+            <td></td>
             <td>Rekenlicentie aangeschaft & H1-6</td>
             <td>H7-13</td>
             <td>H14-18</td>
+            <td></td>
+            <td></td>
+            <td></td>
+
             <td colspan="5"></td>
         </tr>
         <!-- Rij 4: Generieke onderdelen BS -->
@@ -135,18 +140,17 @@
             <tr>
             <td>Beloning '*'</td>
             <td>A2-lees- en luisteropdrachten richten zich op het begrijpen van eenvoudige teksten en veelvoorkomende woorden over persoonlijke onderwerpen en duidelijke boodschappen.</td>
-            <td>
-            A2-schrijf- en gesprekopdrachten richten zich op het schrijven van eenvoudige notities en brieven en het voeren van korte, alledaagse gesprekken over vertrouwde onderwerpen.</td>
-            <td>
-            Opdrachten voor A2 vocabulair en spreken ERK niveau spreken: Ik kan een reeks uitdrukkingen en zinnen gebruiken om in eenvoudige bewoordingen mijn familie en andere mensen, leefomstandigheden, mijn opleiding en mijn huidige of meest recente baan te beschrijven.</td>
+            <td> A2-schrijf- en gesprekopdrachten richten zich op het schrijven van eenvoudige notities en brieven en het voeren van korte, alledaagse gesprekken over vertrouwde onderwerpen.</td>
+            <td> Opdrachten voor A2 vocabulair en spreken ERK niveau spreken: Ik kan een reeks uitdrukkingen en zinnen gebruiken om in eenvoudige bewoordingen mijn familie en andere mensen, leefomstandigheden, mijn opleiding en mijn huidige of meest recente baan te beschrijven.</td>
             <td>Opdrachten voor B1 lezen en luisteren ERK niveau lezen: Ik kan teksten begrijpen die hoofdzakelijk bestaan uit hoogfrequente, alledaagse of aan mijn werk gerelateerde taal. Ik kan de beschrijving van gebeurtenissen, gevoelens en wensen in persoonlijke brieven begrijpen. ERK niveau luisteren: Ik kan de hoofdpunten begrijpen wanneer in duidelijk uitgesproken standaarddialect wordt gesproken over vertrouwde zaken die ik regelmatig tegenkom op mijn werk, school, vrije tijd enz. Ik kan de hoofdpunten van veel radio- of tvprogramma’s over actuele zaken of over onderwerpen van persoonlijk of beroepsmatig belang begrijpen, wanneer er betrekkelijk langzaam en duidelijk gesproken wordt.<td>
-            <td>...</td>
+            <td></td>
             <td>Opdrachten voor B1 vocabulair en spreken Examen spreken, gesprek voeren, schrijven ERK niveau spreken: Ik kan uitingen op een simpele manier aan elkaar verbinden, zodat ik ervaringen en gebeurtenissen, mijn dromen, verwachtingen en ambities kan beschrijven. Ik kan in het kort redenen en verklaringen geven voor mijn meningen en plannen. Ik kan een verhaal vertellen, of de plot van een boek of film weergeven en mijn reacties beschrijven.</td>
 
              <!-- Rij 7: Generieken onderdelen LB -->
         <tr class="category">
             <td colspan="8">7: Generieke onderdelen LB </td>
             <tr>
+            <td></td>
             <td>...</td>
             <td>Maak een profiel aan bij Leo Loopbaan. Doe de test "jouw plek in de wereld van werk" Reflecteer hierop. Maak de loopbaanopdracht belemmering of kans in Leo Loopbaan. En reflecteer.</td>
             <td>Maak in Leo Loopbaan de tests 'Persoonlijkheidstype', 'Kwaliteitentest' en 'Beroepenzelfonderzoek' schrijf een reflectie over de uitkomsten, je kunt uitleg geven over de uitkomsten wat je over jezelf leerde.</td>
@@ -154,7 +158,46 @@
             <td>
             Maak een LinkedIn profiel aan, je kunt hierover uitleggen wat belangrijk is. Maak een CV.<td>
             <td>...</td>
-            <td>...<td>
+
+            
+             <!-- Rij 8: Keuzedeel 1-->
+        <tr class="category">
+            <td colspan="8">8: Keuzedeel 1</td>
+            <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>examens gehaald</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            
+            <!-- Rij 9: Keuzedeel 2-->
+        <tr class="category">
+            <td colspan="8">9: Keuzedeel 2</td>
+            <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>examens gehaald</td>
+            <td></td>
+            <td></td>
+            
+            <!-- Rij 10: Keuzedeel 3-->
+        <tr class="category">
+            <td colspan="8">10: Keuzedeel 3</td>
+            <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>examens gehaald</td>
     </tbody>
 </table>
 
