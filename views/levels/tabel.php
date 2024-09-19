@@ -18,30 +18,50 @@
     <style>
         body {
             font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f8f8f8;
         }
+
+        h2 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
         table {
             width: 100%;
             border-collapse: collapse;
-            margin: 20px 0;
-            font-size: 14px;
+            margin-bottom: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
-        table th, table td {
-            border: 1px solid #ccc;
-            padding: 10px;
+
+        th, td {
+            padding: 12px 15px;
+            border: 1px solid #ddd;
             text-align: left;
         }
-        table th {
+
+        th {
             background-color: #f4f4f4;
+            font-weight: bold;
+            color: #555;
         }
-        table tr:nth-child(even) {
+
+        tr:nth-child(even) {
             background-color: #f9f9f9;
         }
-        table tr:hover {
+
+        tr:hover {
             background-color: #f1f1f1;
         }
+
         .category {
             font-weight: bold;
             background-color: #e0e0e0;
+            text-align: center;
+            color: #333;
         }
     </style>
 </head>
@@ -69,13 +89,29 @@
         </tr>
         <tr>
             <td>Nog geen level</td>
-            <td>Student heeft XAMPP geïnstalleerd...</td>
-            <td>Student kan 5 HTML tags...</td>
-            <td>Student kan een database maken...</td>
-            <td>Student kan een ERD en technisch ontwerp maken...</td>
-            <td>Student presenteert software in tweede taal...</td>
-            <td>Student legt geleerde code uit...</td>
-            <td>Student toont challenges en verbeteringen aan...</td>
+            <td>Student heeft XAMMP/alternatief werkend geïnstaleerd. Op dit platform wordt een werkend product is gepresenteerd.
+Code wordt gepreseteerd met VS Code.
+Kan 3 HTML tags & 2 CSS opdrachten uitleggen.</td>
+
+            <td>Student kan 5 HTML tags.
+5 CSS onderwerpen: benoem 3 tags, leg uit hoe nesting werkt.
+Leg een zelfgemaakte Javascript functie uit die gebruik maakt van parameters.</td>
+
+            <td>Student kan een database maken met gebruikersrechten. Is in staat om nette code te schrijven met een combinatie van JavaScript,HTML,CSS & PHP zoals behandeld in workshops.//comments en structuur</td>
+
+            <td>Student kan een ERD, Functioneel/Technisch ontwerp, MOSCOW en Usecases maken.
+Kan de 4 basisprincipes van OOP uitleggen iclusief een eenvoudeige toepassing.</td>
+
+            <td>Student presenteert zelfgemaakte software in een tweede programmeertaal en kan dit uitleggen. Kan een gebruikte debug strategie uitleggen.</td>
+
+            <td>Student heeft tweede programmeertaal gekozen. Legt de geleerde code uit van een verdiepende challenge. </td>
+
+            <td>Student laat in minimaal 2 afgeronde challenges waarvan 1 met een bedrijf het volgende zien: 
+- Opdracht definitie, planning en bewaking
+-Ontwerpdocument volledig uit padlet ingevuld
+-Kan software uitleggen
+-Tesplan, Testlog en Tesverslag volledig ingevuld
+-Verbetervoorstellen geven adhv begindefinitie</td>
         </tr>
         <!-- Rij 2: Werken in een ontwikkelteam -->
         <tr class="category">
@@ -83,20 +119,20 @@
         </tr>
         <tr>
             <td>Nog geen level</td>
-            <td>Project uitgevoerd in een groep...</td>
-            <td>Kan samenwerken en presenteren...</td>
-            <td>Reflecteert op eigen rol via Belbin test...</td>
-            <td>Geeft feedback aan teamleden...</td>
-            <td>Reflecteert volgens STARR-methode...</td>
-            <td>Voert 360-graden feedback uit...</td>
-            <td>Reflecteert op eigen rol in team...</td>
+            <td>Student voert een project uit  in een groep en lost eventuele conflicten aantoonbaar op.</td>
+            <td>Student kan samenwerken in een groepje en weet wat hun rol hierin is. Laat zien dat hij een presentatie kan geven.</td>
+            <td>Student reflecteert op eigen rol binnen het team via Belbin test.Laat zien dat hij een presentatie kan geven rekening houdend met zijn/haar doelgroep.</td>
+            <td>Student reflecteert op eigen rol binnen het team en toont aan dat ze feedback kunnen geven aan teamleden.  Student plant werkzaamheden eb deze zijn aantoonbaaar adhv een stand up meetingsverslag en een planning.</td>
+            <td>Student reflecteert volgens de STARR- methode op eigen rol binnen het team. Student toont aan dat hij/zij feedback kan geven aan teamleden. </td>
+            <td>Student heeft een 360-graden feedback uitgevoerd en reflecteert hierop. Student presenteerd zijn challenge op een professionele manier.</td>
+            <td>Student heeft actief deelgenemonen aan een team met een duidelijke rol en vastgelegde afspraken. Presenteerd op een proffesionele manier een product. Student reflecteert op eigen productdeel, eigen rol, teamverband en gedrag. Bv. STARR</td>
         </tr>
         <!-- Rij 3: Generieke onderdelen RE -->
         <tr class="category">
             <td colspan="8">3: Generieke onderdelen RE</td>
         </tr>
         <tr>
-            <td></td>
+            <td>Nog geen level</td>
             <td>Rekenlicentie aangeschaft & H1-6</td>
             <td>H7-13</td>
             <td>H14-18</td>
@@ -111,21 +147,21 @@
             <td colspan="8">4: Generieke onderdelen BS</td>
         </tr>
         <tr>
-            <td>...</td>
+            <td>nog geen level</td>
             <td>Beloning: '*'</td>
-            <td>Verdiept in sociaal-maatschappelijk...</td>
-            <td>Verdiept in gezondheid...</td>
-            <td>Verdiept in politiek...</td>
-            <td>Verdiept in economie...</td>
-            <td>Interview stagebegeleider...</td>
-            <td>Neemt burgerschapsdimensies op...</td>
+            <td>Heeft zich verdiept in de dimensie Sociaal Maatschappelijk, heeft een mening over normen en waarden en verschillen tusssen individuen en heeft dit aangetoond in een infographic</td>
+            <td>Heeft zich verdiept in de dimensie gezondheid, heeft een mening over beroepsziekten en het belang van gezondheid in het algemeen en heeft dit aangetoond in een infographic.</td>
+            <td>Heeft zich verdiept in de dimensie politiek, heeft een mening over diverse politieke stromingen, heeft kennis van het Nederlandse kiessysteen, 1e en 2e kamer en trias politica en heeft dit aangetoond in een infographi</td>
+            <td>Heeft zich verdiept in de dimensie economie, heeft zich verdiept in de kosten die een student in Nederland heeft, welke verzekeringen verplicht zijn na de leeftijd van 18 jaar en heeft kennis van belastingen in Nederland en heeft dit aangetoond in een infographic</td>
+            <td>Interview bij de stagebegeleider van het BPV bedrijf over hoe de vier dimensies een plek krijgen in de organisatie en geeft een advies voor verbetering op basis van het interview.</td>
+            <td>Neemt de burgerschapsdimensies op in uitwerking van de challenges. Doet voorstel voor acties challenge owner</td>
         </tr>
         <!-- Rij 5: Generieken onderdelen NE -->
         <tr class="category">
             <td colspan="8">5: Generieke onderdelen NE </td>
             <tr>
            
-            <td></td>
+            <td>Nog geen level</td>
             <td>Student heeft 3 verschillende Nederlands-Bricks succesvol voltooid.</td>
             <td>...</td>
             <td>...</td>
@@ -150,7 +186,7 @@
         <tr class="category">
             <td colspan="8">7: Generieke onderdelen LB </td>
             <tr>
-            <td></td>
+            <td>Nog geen level</td>
             <td>...</td>
             <td>Maak een profiel aan bij Leo Loopbaan. Doe de test "jouw plek in de wereld van werk" Reflecteer hierop. Maak de loopbaanopdracht belemmering of kans in Leo Loopbaan. En reflecteer.</td>
             <td>Maak in Leo Loopbaan de tests 'Persoonlijkheidstype', 'Kwaliteitentest' en 'Beroepenzelfonderzoek' schrijf een reflectie over de uitkomsten, je kunt uitleg geven over de uitkomsten wat je over jezelf leerde.</td>
